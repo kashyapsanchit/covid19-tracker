@@ -4,7 +4,9 @@ git clone
 yarn add 
 yarn start
 
-TRACK THE CURRENT SITUATION IN YOUR COUNTRY!!
+## Track the spread of covid19 disease in various countries.
+
+## This project uses an API to fetch data about the spread of covid 19.
 
 
 ## Running Scripts
